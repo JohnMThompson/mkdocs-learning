@@ -1,9 +1,18 @@
-site_name: Finn Documentation
+site_name: Finn-structions
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Food: food.md
+  - About Finn:
+    - Finn's Story: story.md
+    - Stats: about.md
+  - Food:
+    - Meals: food.md
+    - Treats and Chews: treats.md
+  - Activities:
+    - Walks & Outdoor Time: walk.md
+    - Sleeping Arrangements: sleep.md
+    - Typical Day: typical-day.md
+
 
 extra_css:
   - stylesheets/extra.css
@@ -16,10 +25,10 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
     - navigation.sections
-    - navigation.path
+  #   - navigation.path
 
   palette:
 
@@ -28,10 +37,11 @@ theme:
         icon: material/brightness-4
         name: Switch to dark mode
     
-    - scheme: finn-dark
+    - scheme: slate
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+      primary: custom
 
 extra:
   homepage: https://johnthompson.io/mkdocs-learning/
