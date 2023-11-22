@@ -1,0 +1,19 @@
+site_name: Finn Documentation
+
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+
+  palette:
+
+    - scheme: finn-light
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    
+    - scheme: finn-dark
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
