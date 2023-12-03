@@ -1,4 +1,10 @@
 site_name: Finn-structions
+site_url: https://johnthompson.io/finnstructions/
+repo_url: https://github.com/JohnMThompson/finnstructions
+repo_name: Visit our GitHub repo!
+site_author: John Thompson
+site_description: A fun site I'm building to learn MkDocs
+copyright: John Thompson
 
 nav:
   - Home: index.md
@@ -8,6 +14,9 @@ nav:
   - Food:
     - Meals: food.md
     - Treats and Chews: treats.md
+  - Healthcare:
+    - Medications: meds.md
+    - Grooming: grooming.md
   - Activities:
     - Walks & Outdoor Time: walk.md
     - Sleeping Arrangements: sleep.md
@@ -44,4 +53,4 @@ theme:
       primary: custom
 
 extra:
-  homepage: https://johnthompson.io/mkdocs-learning/
+  homepage: https://johnthompson.io/finnstructions/
