@@ -17,6 +17,7 @@ nav:
   - Healthcare:
     - Medications: meds.md
     - Grooming: grooming.md
+    - Veterinarian: vet.md
   - Activities:
     - Walks & Outdoor Time: walk.md
     - Sleeping Arrangements: sleep.md
