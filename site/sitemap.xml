@@ -26,6 +26,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://johnthompson.io/finnstructions/return/</loc>
+         <lastmod>2023-12-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://johnthompson.io/finnstructions/sleep/</loc>
          <lastmod>2023-12-03</lastmod>
          <changefreq>daily</changefreq>
