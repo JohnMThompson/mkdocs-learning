@@ -7,3 +7,5 @@ MkDocs is a static site generator focused on project documentation. Find out mor
 I'm also using the Material theme for MkDocs, more about that project here: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 Since I needed some subject matter for the content, I chose a topic I know pretty much everything about - my dog Finn!
+
+The project is live at [https://johnthompson.io/finnstructions/](https://johnthompson.io/finnstructions/)
